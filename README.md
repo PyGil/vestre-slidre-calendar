@@ -13,7 +13,7 @@ Make sure you have the following software installed on your system:
 
 2. Navigate to the project directory:
  ```bash
-cd vesstre-slidre-event-calendar
+cd vestre-slidre-calendar
 ```
 
 3. Install dependencies:
